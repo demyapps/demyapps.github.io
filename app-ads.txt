@@ -10,6 +10,7 @@ pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 191086, RESELLER
 unity.com, 1186870, DIRECT, 96cabb5fbdde37a7
+google.com, pub-2122622612748492, RESELLER
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
