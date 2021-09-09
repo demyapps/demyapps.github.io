@@ -133,7 +133,6 @@ freewheel.tv, 1158193, RESELLER
 rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
 pangleglobal.com, 85147, DIRECT
 google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
-google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1972, RESELLER
 rubiconproject.com, 23778, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23780, RESELLER, 0bfd66d529a55807
