@@ -181,3 +181,6 @@ adtarget.com.tr, 306742, DIRECT
 admatic.com.tr, adm-pub-185375301865, DIRECT
 adform.com, 2600, DIRECT
 stroeer.com, 17938, DIRECT
+a4g.com, 2775364, DIRECT
+google.com, pub-1232265399417302, RESELLER
+indexexchange.com, 195450, RESELLER, 50b1c356f2c5c8fc
