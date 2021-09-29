@@ -1,3 +1,6 @@
+a4g.com, 2775364, DIRECT
+google.com, pub-1232265399417302, RESELLER
+indexexchange.com, 195450, RESELLER, 50b1c356f2c5c8fc
 google.com, pub-8489521190294859, DIRECT, f08c47fec0942fa0
 mopub.com, c09b1ea052bc43c79ab44879113ed490, DIRECT, 74b46c0ea83967ca
 applovin.com, 0e5c368d7287367a93f767237e41df6b, DIRECT
@@ -181,6 +184,3 @@ adtarget.com.tr, 306742, DIRECT
 admatic.com.tr, adm-pub-185375301865, DIRECT
 adform.com, 2600, DIRECT
 stroeer.com, 17938, DIRECT
-a4g.com, 2775364, DIRECT
-google.com, pub-1232265399417302, RESELLER
-indexexchange.com, 195450, RESELLER, 50b1c356f2c5c8fc
