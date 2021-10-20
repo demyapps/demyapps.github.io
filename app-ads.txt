@@ -184,7 +184,6 @@ adtarget.com.tr, 306742, DIRECT
 admatic.com.tr, adm-pub-185375301865, DIRECT
 adform.com, 2600, DIRECT
 stroeer.com, 17938, DIRECT
-improvedigital.com, 1972, RESELLER
 rubiconproject.com, 23780, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 23778, DIRECT, 0bfd66d529a55807
 pubmatic.com, 161141, DIRECT, 5d62403b186f2ace
